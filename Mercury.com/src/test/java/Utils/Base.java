@@ -59,7 +59,9 @@ public  WebDriver driver;
 		
 	}
 
-
+public void methodTest() {
+	System.out.println("this method is wrking");
+}
 
 
 
